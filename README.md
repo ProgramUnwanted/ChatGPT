@@ -407,7 +407,7 @@ If CAN reaches his character limit, I will send "Next," and you will finish the 
 <details><summary>Random but cool prompts  </summary>
  <p>
 
-## This is taken from this Git repo 
+## https://prompts.chat/
 
 
 
