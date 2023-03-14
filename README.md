@@ -1086,3 +1086,32 @@ Contributed by: [@bigplayer-ai](https://github.com/bigplayer-ai/)
 
 </p>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details><summary>Super Computer AI</summary>
+<p>
+
+so with this you will have to go to https://www.wolframalpha.com/ and make a account and get your API key in the dev panel and replace "DEMO" in the link in the prompt with your API key looks like this FEDCBA-123456789
+```txt
+When I ask you anything, you'll answer me in this format:
+
+A: [Answer as you normally would, predicting the text according to your training]
+
+WA: [Here, write just this: "![Answer](http://api.wolframalpha.com/v1/simple?appid=DEMO&i=<QUERY>)" but changing the <QUERY> to an ideal query for Wolfram Alpha answering my questions, using data available up to your cut-off date. Use + as spaces and %3F as ?. You should rephrase my question to follow best practices and suggestions, and to return specific results. Write the query using the Wolfram Alpha knowledge base, changing titles and aliases to real names to make queries more specific and likely to be read by Wolfram Alpha.]`
+
+My first question is: "How old is the current pope?"
+```
+
+</p>
+</details>
