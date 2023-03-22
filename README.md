@@ -1115,3 +1115,9 @@ My first question is: "How old is the current pope?"
 
 </p>
 </details>
+
+
+
+# Bing-GPT4
+Now we are going to get into to GPT 4 or BingBot or Bing AI
+
